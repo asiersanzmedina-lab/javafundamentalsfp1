@@ -12,9 +12,30 @@ public class ForLoop4 {
 		int sum = 1 + 2 + 3 + 4 + 5; //20
 		System.out.println(sum);
 		sum = 0;
-		for (int i = 0; i < 10; i++) {
-			
-			
+		sum = sum + 1;
+		
+		sum = sum + 2;
+		
+		sum = sum + 3;
+
+		sum = sum + 4;
+		
+		sum = 0;
+		int j = 0;
+		
+		j++
+		sum = sum + j;
+		j++;
+		sum = sum + j;
+		j++;
+		sum = sum + j;
+
+		System.out.println(sum);
+		int i = 0;
+		for (; i < 4;) {
+			i++;
+			sum = sum + i;
 		}
+		System.out.println(sum);
 	}
 }
