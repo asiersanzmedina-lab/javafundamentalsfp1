@@ -23,7 +23,7 @@ public class ForLoop4 {
 		sum = 0;
 		int j = 0;
 		
-		j++
+		j++;
 		sum = sum + j;
 		j++;
 		sum = sum + j;
