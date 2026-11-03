@@ -1,3 +1,3 @@
-module javafundamentalsfp1 {
+module javafundamentals1 {
 	
 }
