@@ -1,4 +1,4 @@
-package oopmodellingExc;
+package oopmodelling;
 
 public class Main {
 

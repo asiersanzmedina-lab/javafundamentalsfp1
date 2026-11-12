@@ -1,4 +1,4 @@
-package oopmodelling;
+package oopmodeling.animal;
 
 // Clase Dog (Perro)
 public class Dog {
